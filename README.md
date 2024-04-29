@@ -22,7 +22,7 @@ The following command can be used to run the web app.<br>
 ```python intercept.py --input 0```<br>
 ```python intercept.py --input 0 --landmarks 1 --flip 1 --bpm BPM --ttl TTL```<br>
 ```python intercept.py --input 2 --landmarks 1 --flip 1 --record 1``` - Camera device 2; overlay landmarks; flip; generate a recording<br>
-```python intercept.py -i "/Downloads/shakira.mp4" --second 0``` - Use video file as input; use camera device 0 as secondary input for mirroring feedback```<br>
+```python intercept.py -i "/Downloads/shakira.mp4" --second 0``` - Use video file as input; use camera device 0 as secondary input for mirroring feedback<br>
 
 ## Optional flags:
 * --help - Display the below options
